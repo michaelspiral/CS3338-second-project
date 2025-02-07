@@ -1,0 +1,19 @@
+PS C:\Users\13239\Desktop\CS3338-second-project\CS3338-second-project> git log
+commit 4fe0541e2ae7767f6144dc59f3b4a774a2ecd556 (HEAD -> main, origin/main, origin/HEAD)
+Merge: cc359a9 8477703
+Author: TLellius <95242199+TLellius@users.noreply.github.com>
+Date:   Fri Feb 7 13:39:50 2025 -0800
+
+    Merge pull request #1 from michaelspiral/conflict-test
+
+    conflict test: changes to index.html
+
+PS C:\Users\13239\Desktop\CS3338-second-project\CS3338-second-project> git log
+commit 4fe0541e2ae7767f6144dc59f3b4a774a2ecd556 (HEAD -> main, origin/main, origin/HEAD)
+Merge: cc359a9 8477703
+Author: TLellius <95242199+TLellius@users.noreply.github.com>
+Date:   Fri Feb 7 13:39:50 2025 -0800
+
+    Merge pull request #1 from michaelspiral/conflict-test
+
+    conflict test: changes to index.html
